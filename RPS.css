@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+	background-image: url(RPSimage.jpg);
+	background-size: cover;
+	color: #2957a0;
+
+} 
+
+h1 {
+
+}
+
+button {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition-duration: 0.4s; 
+    transit*/ion-duration: 0.4s;
+}
+
+button:hover{
+	background-color: #2957a0;
+
+}
+
+h2 {
+	font-size: 20px;
+	color: #2957a0;
+
+
+
+}
